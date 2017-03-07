@@ -33,6 +33,7 @@
 
 
 	<modules>
+		<module>om-core-parent</module>
 		<module>om-core-model</module>
 		<module>om-core-api</module>
 		<module>om-core-impl</module>
