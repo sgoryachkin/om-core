@@ -5,6 +5,7 @@
 		<groupId>com.sego.om.core</groupId>
 		<artifactId>om-core-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../om-core-parent/pom.xml</relativePath>
 	</parent>
 	<artifactId>om-core-impl</artifactId>
 	
